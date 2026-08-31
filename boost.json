@@ -13,7 +13,9 @@
         "infer-conventions",
         "fortify-development",
         "laravel-best-practices",
+        "scout-development",
         "wayfinder-development",
+        "pest-testing",
         "inertia-react-development",
         "tailwindcss-development"
     ]
